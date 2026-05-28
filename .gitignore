@@ -1,0 +1,11 @@
+
+################################################################################
+# Added by UiPath Studio
+# Prevent caching and local artifacts from being committed
+################################################################################
+.local
+################################################################################
+# End of UiPath Studio common ignores
+################################################################################
+# Ignore dlib face landmarks model file
+script/shape_predictor_68_face_landmarks.dat

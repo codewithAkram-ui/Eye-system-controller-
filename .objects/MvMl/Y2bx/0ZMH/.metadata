@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Instagram - Profile 1 - Microsoft​ Edge",
+  "Type": "Screen",
+  "Id": "0ZMHm2quKkmCj-RHgYHMoA",
+  "Reference": "alEglRlzpkahHtx7HUln0Q/0ZMHm2quKkmCj-RHgYHMoA",
+  "ParentRef": "alEglRlzpkahHtx7HUln0Q/Y2bxhU013UmHQcErBiypog",
+  "Created": "2026-05-11T11:15:33.4967828Z",
+  "Updated": "2026-05-11T11:15:33.4967828Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

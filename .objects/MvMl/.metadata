@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Instagram and 2 more pages - Profile 1 - Microsoft​ Edge",
+  "Type": "App",
+  "Id": "MvMlWAr80Uy8RKcEP8Gxhw",
+  "Reference": "alEglRlzpkahHtx7HUln0Q/MvMlWAr80Uy8RKcEP8Gxhw",
+  "Created": "2026-05-11T11:04:21.9931986Z",
+  "Updated": "2026-05-11T11:04:21.9931986Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

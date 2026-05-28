@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Instagram and 2 more pages - Profile 1 - Micr",
+  "Type": "Screen",
+  "Id": "tnmRxs8E00aKEU8oX6smrw",
+  "Reference": "alEglRlzpkahHtx7HUln0Q/tnmRxs8E00aKEU8oX6smrw",
+  "ParentRef": "alEglRlzpkahHtx7HUln0Q/Y2bxhU013UmHQcErBiypog",
+  "Created": "2026-05-11T11:04:22.4739554Z",
+  "Updated": "2026-05-11T11:04:22.4739554Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
