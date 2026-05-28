@@ -57,7 +57,7 @@ EyesystemController/
 ├── script/
 │   ├── pupil.py            # Core Python logic
 │   ├── calibration_nose.npz
-│   └── shape_predictor_68_face_landmarks.dat
+│   └── shape_predictor_68_face_landmarks.dat(download from web)
 │
 ├── .gitignore
 └── README.md
